@@ -1,0 +1,12 @@
+.header h1{
+  color: rgb(132, 99, 245);
+  font-weight: bolder;
+  font-family: Helvetica;
+  font-size: 30px;
+}
+
+.header h2{
+  margin-top: -10px;
+  font-weight: lighter;
+  font-size: 25px;
+}
